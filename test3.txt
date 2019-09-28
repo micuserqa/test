@@ -1,7 +1,0 @@
-created a new file for testing
-<<<<<<< HEAD
-created a new file for testing
-=======
-modified the file for git pull request
->>>>>>> 143a8e9b37f474c179294ede4c7ce60e1b9b96cc
-adding another line to existing
